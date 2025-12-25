@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Password",
+  "base_artist": "INI",
+  "createdAt": "2025-12-25T08:23:08.786787Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Password",
+      "artist": "Piano Magic",
+      "has_synced": true,
+      "path": "select/01_Password_Piano_Magic.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Your Disco Needs You - German Version Containing Hidden Track 'Password'",
+      "artist": "Kylie Minogue",
+      "has_synced": false,
+      "path": "select/02_Your_Disco_Needs_You_-_German_Version_Containing_Hidden_Track_'Password'_Kylie_Minogue.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "WiFi Password Incorrect",
+      "artist": "$uicideBoy$ feat. Black Smurf",
+      "has_synced": true,
+      "path": "select/03_WiFi_Password_Incorrect_$uicideBoy$_feat._Black_Smurf.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "WiFi Password Incorrect",
+      "artist": "$uicideboy$",
+      "has_synced": true,
+      "path": "select/04_WiFi_Password_Incorrect_$uicideboy$.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Password",
+      "artist": "Kylie Minogue",
+      "has_synced": false,
+      "path": "select/05_Password_Kylie_Minogue.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "WiFi Password Incorrect",
+      "artist": "$uicideboy$ & Black Smurf",
+      "has_synced": true,
+      "path": "select/06_WiFi_Password_Incorrect_$uicideboy$_&_Black_Smurf.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Password",
+      "artist": "INI",
+      "has_synced": false,
+      "path": "select/07_Password_INI.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Pipo Password (ボンジュール鈴木 ふわふわremix)",
+      "artist": "TeddyLoid feat. Bonjour Suzuki",
+      "has_synced": false,
+      "path": "select/08_Pipo_Password_(ボンジュール鈴木_ふわふわremix)_TeddyLoid_feat._Bonjour_Suzuki.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Pipo Password(Luluco on SILENT PLANET Remix)",
+      "artist": "TeddyLoid feat. Bonjour Suzuki",
+      "has_synced": false,
+      "path": "select/09_Pipo_Password(Luluco_on_SILENT_PLANET_Remix)_TeddyLoid_feat._Bonjour_Suzuki.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Pipo Password(Luluco on SILENT PLANET Remix)",
+      "artist": "TeddyLoid feat.ボンジュール鈴木",
+      "has_synced": false,
+      "path": "select/10_Pipo_Password(Luluco_on_SILENT_PLANET_Remix)_TeddyLoid_feat.ボンジュール鈴木.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Pipo Password (Luluco on SILENT PLANET Remix) (ft. Bonjour Suzuki [ボンジュール鈴木])",
+      "artist": "TeddyLoid",
+      "has_synced": false,
+      "path": "select/11_Pipo_Password_(Luluco_on_SILENT_PLANET_Remix)_(ft._Bonjour_Suzuki_[ボンジュール鈴木])_TeddyLoid.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Pipo Password",
+      "artist": "TeddyLoid feat. Bonjour Suzuki",
+      "has_synced": true,
+      "path": "select/12_Pipo_Password_TeddyLoid_feat._Bonjour_Suzuki.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Pipo Password (ft. Bonjour Suzuki [ボンジュール鈴木])",
+      "artist": "TeddyLoid",
+      "has_synced": true,
+      "path": "select/13_Pipo_Password_(ft._Bonjour_Suzuki_[ボンジュール鈴木])_TeddyLoid.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Password",
+      "artist": "Merge",
+      "has_synced": false,
+      "path": "select/14_The_Password_Merge.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Merge - The Password (Official Audio)",
+      "artist": "Merge",
+      "has_synced": false,
+      "path": "select/15_Merge_-_The_Password_(Official_Audio)_Merge.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Password",
+      "artist": "Ben Folds & Nick Hornby",
+      "has_synced": true,
+      "path": "select/16_Password_Ben_Folds_&_Nick_Hornby.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Password",
+      "artist": "Ben Folds",
+      "has_synced": true,
+      "path": "select/17_Password_Ben_Folds.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Password",
+      "artist": "Cotton Mather",
+      "has_synced": false,
+      "path": "select/18_Password_Cotton_Mather.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Password",
+      "artist": "INI",
+      "has_synced": false,
+      "path": "select/pl_01_Password_INI.txt"
+    }
+  ]
+}
